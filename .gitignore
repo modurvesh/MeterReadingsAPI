@@ -362,7 +362,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # db files 
-.db
+*.db
 
 # development app settings
-.development.json
+*.development.json
